@@ -1,29 +1,69 @@
 {
-    "jokes": [
-      {
-        "id": 1,
-        "text": "I went to buy some camo pants but couldn’t find any.",
-        "told": false
-      },
-      {
-        "id": 2,
-        "text": "I always find elevator jokes to be uplifting.",
-        "told": false
-      },
-      {
-        "id": 3,
-        "text": "Most people are shocked when they find out how bad I am as an electrician.",
-        "told": true
-      },
-      {
-        "id": 4,
-        "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
-        "told": false
-      },
-      {
-        "id": 5,
-        "text": "I failed math so many times at school, I can’t even count",
-        "told": true
-      }
-    ]
-  }
+  "jokes": [
+    {
+      "id": 1,
+      "text": "I went to buy some camo pants but couldn’t find any.",
+      "told": false
+    },
+    {
+      "id": 2,
+      "text": "I always find elevator jokes to be uplifting.",
+      "told": false
+    },
+    {
+      "id": 3,
+      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "told": true
+    },
+    {
+      "id": 4,
+      "text": "I’ve had a perfectly wonderful evening, but this wasn’t it.",
+      "told": false
+    },
+    {
+      "id": 5,
+      "text": "I failed math so many times at school, I can’t even count",
+      "told": true
+    },
+    {
+      "text": "I’m reading a book on anti-gravity. It’s impossible to put down!",
+      "told": false,
+      "id": 6
+    },
+    {
+      "text": "Parallel lines have so much in common... it’s a shame they’ll never meet.",
+      "told": false,
+      "id": 7
+    },
+    {
+      "text": "For Sale: Parachute. Only used once, never opened.",
+      "told": false,
+      "id": 8
+    },
+    {
+      "text": "Always remember that you are unique; just like everyone else.",
+      "told": false,
+      "id": 9
+    },
+    {
+      "text": "A clear conscience is usually the sign of a bad memory.",
+      "told": false,
+      "id": 10
+    },
+    {
+      "text": "Change is inevitable, except from a vending machine.",
+      "told": false,
+      "id": 11
+    },
+    {
+      "text": "Yo Momma.",
+      "told": false,
+      "id": 12
+    },
+    {
+      "text": " Why is “abbreviation” such a long word?",
+      "told": false,
+      "id": 13
+    }
+  ]
+}
